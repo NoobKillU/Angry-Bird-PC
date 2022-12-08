@@ -1,0 +1,184 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/Birds_and_Bigs_higher.png) no-repeat top center fixed;
+	background-color:#345B05;
+}
+
+.wrapper {
+	width:800px;
+	margin-right:auto;
+	margin-left:auto;
+	background-color:#090;
+}
+
+
+
+/***** Header Section *****/
+.header {
+	float:left;
+	/* width:1200px; */
+	height:235px;
+	/* margin-left:75px; */
+}
+
+
+/***** Main Content Section - Games *****/
+
+/** Background image for each game **/
+.games {
+	float:left;
+	width:845px;
+	height:360px;
+	margin-top: 15px;
+	/* margin-left: 49px; */
+}
+
+.bp {
+	background-image:url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/BP_bg.png);
+}
+
+.abw {
+	background-image:url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/ab_starwars_bg.png);
+}
+
+.abp{
+	background-image:url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/ab_space_bg.png);
+}
+
+/*  "abs" stands for Angry Birds Seasons   */
+.abs {
+	background-image:url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/abs_bg.png);
+}
+
+/*  abr stands for Angry Birds Rio  */
+.abr {
+	background-image:url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/abr_bg.png);
+}
+
+/*  "abo" stands for Angry Birds Original   */
+.abo {
+	background-image:url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/abo_bg.png);
+	margin-top: 25px;
+}
+
+/** Common styling **/
+.column-left {
+	float:left;
+	width:400px;
+	height:235px;
+}
+
+.column-right {
+	float:right;
+	height:235px;
+}
+
+.ablogo {
+	width:350px;
+	height:95px;
+	float: left;
+	margin-left: 21px;
+	margin-top: 25px;
+}
+
+.classic {
+	/* float: left;
+	width:350px;
+	height:95px;
+	margin-left: 21px; */
+	margin-top: 5px;
+}
+
+.abtext {
+	float:left;
+	width:330px;
+	height:125px;
+	margin-top: 10px;
+	margin-left:61px;
+	color:#FFF;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+
+.abpic {
+	width:280px;
+	height:208px;
+	float:right;
+	margin-top:28px;
+	margin-right:125px;
+}
+
+.ableftbutton {
+	float:left;
+	width:350px;
+	height:70px;
+	margin-top: 20px;
+	margin-left:53px;
+}
+
+.abrightbutton {
+	/* float:left; */
+	float:right;
+	width:350px;
+	height:70px;
+	margin-top: 20px;
+	margin-right:50px;
+	margin-left:34px;
+}
+
+
+
+/****** Footer Section - Requirements *****/
+.footer {
+	float:left;
+	width:845px;
+	height:200px;
+	margin-top: 5px;
+	/* margin-left: 49px; */
+	background-image:url(https://web.archive.org/web/20141124170526im_/http://download.angrybirds.com/assets/landingpage/ab_req_bg.png);
+}
+
+.requirements {
+	width:680px;
+	height:160px;
+	margin-top: 40px;
+	margin-left: 90px;
+	color:#FFF;
+	font-family:Arial,Verdana, Geneva, sans-serif;
+	font-size: 14px;
+}
+
+.requirements ul li {
+	list-style:none;
+}
+
+.requirements_title {
+	/* color:#FFF; */
+	font-family:Verdana, Geneva, sans-serif;
+	font-weight:bold;
+	font-size: 16px;
+}
+
+/*
+     FILE ARCHIVED ON 17:05:26 Nov 24, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:50:43 Dec 08, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 566.891
+  exclusion.robots: 0.067
+  exclusion.robots.policy: 0.06
+  RedisCDXSource: 0.778
+  esindex: 0.007
+  LoadShardBlock: 545.565 (3)
+  PetaboxLoader3.datanode: 540.702 (4)
+  CDXLines.iter: 18.659 (3)
+  load_resource: 673.727
+  PetaboxLoader3.resolve: 666.267
+*/
